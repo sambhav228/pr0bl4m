@@ -8,7 +8,7 @@ function App() {
                 <ul className="navbar">
                     <li className="nav-item">
                         <a className="active" href="/">
-                            pr0gr4m
+                            pr0bl4m
                         </a>
                     </li>
                     <li className="nav-item">
