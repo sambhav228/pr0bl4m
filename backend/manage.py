@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+"""Usage
+$ django-admin <command>
+$ manage.py <command>
+$ python -m django <command>"""
+
+
 import os
 import sys
 
